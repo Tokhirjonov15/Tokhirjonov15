@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Alex
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7317F&center=true&vCenter=true&width=520&lines=Full+Stack+%26+DevOps+Engineer;Building+a+medical+tourism+platform;React+%7C+Next.js+%7C+NestJS+%7C+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7317F&center=true&vCenter=true&width=520&lines=Full+Stack+%26+DevOps+Engineer;Building+a+medical+tourism+platform;React+Native+%7C+Next.js+%7C+Supabase+%7C+AWS" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Tokhirjonov15&color=f7317f&style=flat" alt="Profile views" />
 
