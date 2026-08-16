@@ -17,8 +17,8 @@
 ## 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tokhirjonov15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tokhirjonov15&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tokhirjonov15&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tokhirjonov15&theme=tokyonight" alt="Top languages" />
 </div>
 
 <div align="center">
